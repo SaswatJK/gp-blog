@@ -37,12 +37,15 @@ interface BlogItem {
 const FeedItems = () => {
   const dataSources = [
     useStoredFeed("Froyok Dev Blog"),
+    useStoredFeed("Jake S. Del Mastro"),
+    useStoredFeed("Tearnote's Teapot"),
+    useStoredFeed("AntiCator.com | Blog"),
   ];
 
   const feedData: BlogItem[] = [];
-  
+
   // merge the feeds into one
-  dataSources.forEach((source) => source.item.forEach(({guid, title, pubDate, link}) => feedData.push({
+  dataSources.forEach((source) => source?.item?.forEach(({guid, title, pubDate, link}) => feedData.push({
     source: source.title,
     guid,
     title,

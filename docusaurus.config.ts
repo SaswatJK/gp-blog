@@ -37,6 +37,9 @@ const config: Config = {
       {
         data: {
           "Froyok Dev Blog": "https://www.froyok.fr/rss.xml",
+          "Jake S. Del Mastro": "https://jakedelmastro.com/feed/",
+          "Tearnote's Teapot": "https://tear.moe/feed/",
+          "AntiCator.com | Blog": "https://www.anicator.com/blog/feed/",
         }
       }
     ],
