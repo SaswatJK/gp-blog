@@ -2,7 +2,7 @@
 title: 'Improved Reflective Shadow Maps'
 slug: 'improved-reflective-shadow-maps'
 description: 'An ancient technique revitalized with 203rd decade technology.'
-date: '2026-5-17'
+date: '2026-5-21'
 authors: ['jaker']
 tags: ['article', 'global-illumination', 'techniques', 'lighting', 'optimization', 'denoising']
 last_update:
