@@ -77,3 +77,11 @@ jodie:
   image_url: https://jodie.website/logo.svg
   socials:
     github: MathGeniusJodie
+
+yog:
+  name: Yog
+  title: Fluid Enthusiast
+  url: https://github.com/yogwoggf
+  image_url: https://avatars.githubusercontent.com/u/100450992?v=4
+  socials:
+    github: yogwoggf
