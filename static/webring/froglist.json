@@ -120,6 +120,12 @@
     "description": "Personal site where I write about my game engine and other projects."
   },
   {
+    "name": "lukasr",
+    "url": "https://lukas-rennhofer.com/",
+    "displayName": "Lukas Rennhofer",
+    "description": "Homepage of Lukas Rennhofer's graphics experiments."
+  },
+  {
   "name": "saswatjk",
   "url": "https://saswatjk.github.io/personal-site/index.html",
   "displayName": "Saswat Jung Khadka",
